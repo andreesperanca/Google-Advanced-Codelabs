@@ -18,3 +18,10 @@
 - [x] Override performClick() rather than OnClickListener() to the custom view to provide the view's interactive behavior. This enables your or other Android developers that may use your custom view class to use onClickListener() to provide further behavior.
 - [x] Add the custom view to an XML layout file with attributes to define its appearance, as you would with other UI elements.
 - [x] Create the attrs.xml file in the values folder to define custom attributes. You can then use the custom attributes for the custom view in the XML layout file.
+
+## Lesson 3: Animations
+- [x] What properties are and how to animate them.
+- [x] How to use ObjectAnimator to animate UI elements.
+- [x] How to configure ObjectAnimator for different UI animation situations.
+- [x] How to use AnimatorSet to create a more complex animation of several parts.
+- [x] How to use AnimatorListeners to set up the initial and final state of objects that are being animated (such as removing views after fading them out).
