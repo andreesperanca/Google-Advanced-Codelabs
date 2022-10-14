@@ -25,3 +25,12 @@
 - [x] How to configure ObjectAnimator for different UI animation situations.
 - [x] How to use AnimatorSet to create a more complex animation of several parts.
 - [x] How to use AnimatorListeners to set up the initial and final state of objects that are being animated (such as removing views after fading them out).
+
+## Lesson 4: Testing code
+- [x] How to run tests from Android Studio.
+- [x] The difference between local (test) and instrumentation tests (androidTest).
+- [x] How to write local unit tests using JUnit and Hamcrest.
+- [x] Setting up ViewModel tests with the AndroidX Test Library.
+- [x] Writing Assertions for LiveData.
+
+
