@@ -33,4 +33,13 @@
 - [x] Setting up ViewModel tests with the AndroidX Test Library.
 - [x] Writing Assertions for LiveData.
 
+## Lesson 5 - Advanced Testing Code
+
+- [x] How to test coroutines, including view model scoped coroutines.
+- [x] How to test simple error edge cases.
+- [x] How to test Room.
+- [x] How to test data binding with Espresso.
+- [x] How to write end-to-end tests.
+- [x] How to test global app navigation
+
 
