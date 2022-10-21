@@ -49,7 +49,5 @@
 - [x] Using IdlingResource (and the CountingIldingResource subclass) to write end to end tests that both include long running code and work with the data binding library.
 - [x] Testing global app navigation in an end to end test.
 
-## Lesson 6 - Databinding 
-
 
 
