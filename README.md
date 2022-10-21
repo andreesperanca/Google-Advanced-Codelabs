@@ -41,8 +41,6 @@
 - [x] How to test data binding with Espresso.
 - [x] How to write end-to-end tests.
 - [x] How to test global app navigation
-
-
 - [x] A review of testing coroutines from previous lessons, including covering the usage of runBlocking versus runBlockingTest.
 - [x] How to test coroutines that use viewModelScope by using TestCoroutineDispatcher
 - [x] TestCoroutineDispatcher's ability to pauseDispatcher and resumeDispatcher to control coroutine execution
@@ -50,5 +48,8 @@
 - [x] Testing your data layer, including your DAO and local data source
 - [x] Using IdlingResource (and the CountingIldingResource subclass) to write end to end tests that both include long running code and work with the data binding library.
 - [x] Testing global app navigation in an end to end test.
+
+## Lesson 6 - Databinding 
+
 
 
